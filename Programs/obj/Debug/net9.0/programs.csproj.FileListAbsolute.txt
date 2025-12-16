@@ -12,3 +12,4 @@ C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\
 C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.pdb
 C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.genruntimeconfig.cache
 C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\ref\programs.dll
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.sourcelink.json
