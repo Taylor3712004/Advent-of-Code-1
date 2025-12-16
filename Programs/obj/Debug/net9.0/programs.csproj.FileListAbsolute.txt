@@ -1,0 +1,14 @@
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\bin\Debug\net9.0\programs.exe
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\bin\Debug\net9.0\programs.deps.json
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\bin\Debug\net9.0\programs.runtimeconfig.json
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\bin\Debug\net9.0\programs.dll
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\bin\Debug\net9.0\programs.pdb
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.AssemblyInfoInputs.cache
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.AssemblyInfo.cs
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.csproj.CoreCompileInputs.cache
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.dll
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\refint\programs.dll
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.pdb
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\programs.genruntimeconfig.cache
+C:\Users\BC4599\source\repos\AoC2025\Advent-of-Code-1\programs\obj\Debug\net9.0\ref\programs.dll
